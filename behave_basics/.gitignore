@@ -1,2 +1,2 @@
-\.idea
-\components\__pycache__\*
+/.idea
+/components/__pycache__/
